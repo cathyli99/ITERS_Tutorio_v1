@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITERS_Tutorio_v1", "ITERS_Tutorio_v1\ITERS_Tutorio_v1.csproj", "{24595961-2EF4-4613-8D63-4535528893BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{B11204F1-94EA-4AAE-95FB-5C46B56A1932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITERS_Tutorio_testing", "ITERS_Tutorio_testing\ITERS_Tutorio_testing.csproj", "{456DF879-2B98-46A4-8037-B6EB10829C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24595961-2EF4-4613-8D63-4535528893BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24595961-2EF4-4613-8D63-4535528893BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24595961-2EF4-4613-8D63-4535528893BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24595961-2EF4-4613-8D63-4535528893BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456DF879-2B98-46A4-8037-B6EB10829C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456DF879-2B98-46A4-8037-B6EB10829C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456DF879-2B98-46A4-8037-B6EB10829C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456DF879-2B98-46A4-8037-B6EB10829C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{456DF879-2B98-46A4-8037-B6EB10829C43} = {B11204F1-94EA-4AAE-95FB-5C46B56A1932}
+	EndGlobalSection
+EndGlobal

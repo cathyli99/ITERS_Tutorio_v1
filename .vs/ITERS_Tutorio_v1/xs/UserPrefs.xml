@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{24595961-2EF4-4613-8D63-4535528893BC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Downloads/ITERS極客教育/0817-IIS Deployment JWT Summary/ItersTutoriov1/Controllers/UserProfileController.cs">
+    <Files>
+      <File FileName="../../../Downloads/ITERS極客教育/0817-IIS Deployment JWT Summary/ItersTutoriov1/Controllers/UserProfileController.cs" Line="25" Column="34" />
+      <File FileName="../../../Downloads/ITERS極客教育/0817-IIS Deployment JWT Summary/ItersTutoriov1/Controllers/LogoutController.cs" />
+      <File FileName="ITERS_Tutorio_v1/Controllers/CoursesController.cs" />
+      <File FileName="../../../Downloads/ITERS極客教育/0817-IIS Deployment JWT Summary/ItersTutoriov1/Controllers/CourseSubscriptionsController.cs" />
+      <File FileName="../../../Downloads/ITERS極客教育/0817-IIS Deployment JWT Summary/ItersTutoriov1/Models/ApiCourseSubscriptions.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ITERS_Tutorio_v1" expanded="True">
+            <Node name="Testing" expanded="True" />
+            <Node name="ITERS_Tutorio_v1" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name=".gitignore" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Testing.ITERS__Tutorio__testing FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ITERS__Tutorio__v1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
